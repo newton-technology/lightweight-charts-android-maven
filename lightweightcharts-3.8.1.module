@@ -1,0 +1,81 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.tradingview",
+    "module": "lightweightcharts",
+    "version": "3.8.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "lightweightcharts-3.8.1.aar",
+          "url": "lightweightcharts-3.8.1.aar",
+          "size": 427340,
+          "sha512": "bd8db483770e00623dacdd0866d51bc80ce7a646ba439b3d98d0a568ef0e8622c9967a5843315ac69a232a49fef7fd58d779dd6931fc03c147da7b8d5aee51e4",
+          "sha256": "c6f1a1046467edbe83276a35947bef8b7e71bebcb42e1e92543e51c0884440a3",
+          "sha1": "4ded5f641bcfaec5ca7c8812c4851715a20bd146",
+          "md5": "4368c7dd7b0c52c60b06ad9c7beede3e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "androidx.webkit",
+          "module": "webkit",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lightweightcharts-3.8.1.aar",
+          "url": "lightweightcharts-3.8.1.aar",
+          "size": 427340,
+          "sha512": "bd8db483770e00623dacdd0866d51bc80ce7a646ba439b3d98d0a568ef0e8622c9967a5843315ac69a232a49fef7fd58d779dd6931fc03c147da7b8d5aee51e4",
+          "sha256": "c6f1a1046467edbe83276a35947bef8b7e71bebcb42e1e92543e51c0884440a3",
+          "sha1": "4ded5f641bcfaec5ca7c8812c4851715a20bd146",
+          "md5": "4368c7dd7b0c52c60b06ad9c7beede3e"
+        }
+      ]
+    }
+  ]
+}
