@@ -3,7 +3,7 @@
   "component": {
     "group": "com.tradingview",
     "module": "lightweightcharts",
-    "version": "3.8.1",
+    "version": "3.8.3",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -24,13 +24,13 @@
       },
       "files": [
         {
-          "name": "lightweightcharts-3.8.1.aar",
-          "url": "lightweightcharts-3.8.1.aar",
-          "size": 427340,
-          "sha512": "bd8db483770e00623dacdd0866d51bc80ce7a646ba439b3d98d0a568ef0e8622c9967a5843315ac69a232a49fef7fd58d779dd6931fc03c147da7b8d5aee51e4",
-          "sha256": "c6f1a1046467edbe83276a35947bef8b7e71bebcb42e1e92543e51c0884440a3",
-          "sha1": "4ded5f641bcfaec5ca7c8812c4851715a20bd146",
-          "md5": "4368c7dd7b0c52c60b06ad9c7beede3e"
+          "name": "lightweightcharts-3.8.3.aar",
+          "url": "lightweightcharts-3.8.3.aar",
+          "size": 431506,
+          "sha512": "906774da3763962fefb53d75f7114bf3476aa53985f41c328037983a5fa1ab5a9fa15047f9bf04ad91cd224f61427fd431cea8dfc2fb4950c18634ccc7a34a97",
+          "sha256": "60ad2b92393e59b8afbc9eb33a1ca5ac6f4a7ca9e730be016e409f844ca9b5fa",
+          "sha1": "a407b3f089544b25e192e9b4eb2adff8d9704887",
+          "md5": "d56445ce4cb128bdd1d11ba6249c82db"
         }
       ]
     },
@@ -67,13 +67,13 @@
       ],
       "files": [
         {
-          "name": "lightweightcharts-3.8.1.aar",
-          "url": "lightweightcharts-3.8.1.aar",
-          "size": 427340,
-          "sha512": "bd8db483770e00623dacdd0866d51bc80ce7a646ba439b3d98d0a568ef0e8622c9967a5843315ac69a232a49fef7fd58d779dd6931fc03c147da7b8d5aee51e4",
-          "sha256": "c6f1a1046467edbe83276a35947bef8b7e71bebcb42e1e92543e51c0884440a3",
-          "sha1": "4ded5f641bcfaec5ca7c8812c4851715a20bd146",
-          "md5": "4368c7dd7b0c52c60b06ad9c7beede3e"
+          "name": "lightweightcharts-3.8.3.aar",
+          "url": "lightweightcharts-3.8.3.aar",
+          "size": 431506,
+          "sha512": "906774da3763962fefb53d75f7114bf3476aa53985f41c328037983a5fa1ab5a9fa15047f9bf04ad91cd224f61427fd431cea8dfc2fb4950c18634ccc7a34a97",
+          "sha256": "60ad2b92393e59b8afbc9eb33a1ca5ac6f4a7ca9e730be016e409f844ca9b5fa",
+          "sha1": "a407b3f089544b25e192e9b4eb2adff8d9704887",
+          "md5": "d56445ce4cb128bdd1d11ba6249c82db"
         }
       ]
     }
