@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tradingview</groupId>
   <artifactId>lightweightcharts</artifactId>
-  <version>3.8.6</version>
+  <version>3.8.7</version>
   <packaging>aar</packaging>
   <name>Android Lightweight Charts</name>
   <description>The Android Lightweight Charts is an Android wrapper of the TradingView Lightweight Charts library.</description>
