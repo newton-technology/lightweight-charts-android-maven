@@ -3,7 +3,7 @@
   "component": {
     "group": "com.tradingview",
     "module": "lightweightcharts",
-    "version": "3.8.7",
+    "version": "3.8.8",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -24,13 +24,13 @@
       },
       "files": [
         {
-          "name": "lightweightcharts-3.8.7.aar",
-          "url": "lightweightcharts-3.8.7.aar",
-          "size": 431810,
-          "sha512": "dd98b5f3e1e43a41f1c499a2587dc2f5a4f9126c44f21e531df5b22c2b4287d69c462bd5ff0a53727dc44f92ddcee15fe5fdabc881ee8f9715cddf8ff70d79e0",
-          "sha256": "e08e4efa3e22670e84b82c94706cd10f13c102d96f526df1a8549cafe284ff70",
-          "sha1": "f81451068108c8e5c318aca6222d6ce758148b17",
-          "md5": "9150055f7900405bd95dba10e836c29f"
+          "name": "lightweightcharts-3.8.8.aar",
+          "url": "lightweightcharts-3.8.8.aar",
+          "size": 431856,
+          "sha512": "2bb5d39733238447499ec7cea82facd0f44802ced0aed32e5dbfa7f78360a816db956ec6d22c8bbcc91da1ac0875501cb92f5390d0c4ac7fbffcdec9f282f8bf",
+          "sha256": "cf5a963e16d7c6bf52d7854dd32bcb10c5811504853c870e9717958c98cfe977",
+          "sha1": "3263ff77e60255ce282812eba1089ad260a6795b",
+          "md5": "1f4922997309443204295074702b3fbd"
         }
       ]
     },
@@ -67,13 +67,13 @@
       ],
       "files": [
         {
-          "name": "lightweightcharts-3.8.7.aar",
-          "url": "lightweightcharts-3.8.7.aar",
-          "size": 431810,
-          "sha512": "dd98b5f3e1e43a41f1c499a2587dc2f5a4f9126c44f21e531df5b22c2b4287d69c462bd5ff0a53727dc44f92ddcee15fe5fdabc881ee8f9715cddf8ff70d79e0",
-          "sha256": "e08e4efa3e22670e84b82c94706cd10f13c102d96f526df1a8549cafe284ff70",
-          "sha1": "f81451068108c8e5c318aca6222d6ce758148b17",
-          "md5": "9150055f7900405bd95dba10e836c29f"
+          "name": "lightweightcharts-3.8.8.aar",
+          "url": "lightweightcharts-3.8.8.aar",
+          "size": 431856,
+          "sha512": "2bb5d39733238447499ec7cea82facd0f44802ced0aed32e5dbfa7f78360a816db956ec6d22c8bbcc91da1ac0875501cb92f5390d0c4ac7fbffcdec9f282f8bf",
+          "sha256": "cf5a963e16d7c6bf52d7854dd32bcb10c5811504853c870e9717958c98cfe977",
+          "sha1": "3263ff77e60255ce282812eba1089ad260a6795b",
+          "md5": "1f4922997309443204295074702b3fbd"
         }
       ]
     }
